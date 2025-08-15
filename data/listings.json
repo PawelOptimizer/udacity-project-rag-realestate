@@ -1,84 +1,12 @@
 [
     {
-        "neighborhood": "Maplewood Heights",
-        "price": "",
-        "bedrooms": "",
-        "bathrooms": "",
-        "house_size": "",
-        "description": "Welcome to your dream home in the highly sought after neighborhood of Maplewood Heights. This stunning 3 bedroom, 2 bathroom property is the perfect blend of luxury and comfort. As you enter, you are greeted by a spacious open floor plan, featuring high ceilings and large windows that flood the home with natural light. The gourmet kitchen boasts granite countertops, stainless steel appliances, and a large island, making it the ideal space for entertaining guests. The cozy living room with a fireplace is the perfect spot to relax after a long day. The master suite is a true oasis with a walk-in closet and a spa-like en-suite bathroom. Step outside onto the expansive deck, overlooking the beautifully landscaped backyard, perfect for outdoor gatherings. This home also includes a bonus room, ideal for a home office or gym. Don't miss out on the opportunity to make this your forever home.",
-        "neighborhood_description": "Maplewood Heights is a diverse and vibrant neighborhood, known for its tight-knit community and beautiful tree-lined streets. Residents here enjoy the convenience of being just a short drive away from downtown"
-    },
-    {
-        "neighborhood": "Eastleigh Park",
-        "price": "",
-        "bedrooms": "",
-        "bathrooms": "",
-        "house_size": "",
-        "description": "Welcome to this charming colonial-style home nestled in the vibrant community of Eastleigh Park. As you enter the front door, you are greeted by a spacious living room featuring a cozy fireplace and large windows that fill the room with natural light. The open-concept kitchen is a chef's dream, complete with stainless steel appliances, granite countertops, and a breakfast nook. Upstairs, the master suite boasts a walk-in closet and en-suite bathroom with a luxurious soaking tub. The backyard oasis is perfect for entertaining, with a deck, built-in BBQ, and a fire pit. This home also includes a bonus room that can be used as a home office or guest bedroom.",
-        "neighborhood_description": "Eastleigh Park is a diverse and lively neighborhood, known for its tree-lined streets and friendly community. Residents enjoy easy access to a variety of amenities, including parks, restaurants, and shops. The neighborhood is also home to top-rated schools, making it an ideal location for families. Eastleigh Park has a strong sense of community, with regular events and gatherings for residents to connect and"
-    },
-    {
-        "neighborhood": "Redwood Heights",
-        "price": "",
-        "bedrooms": "",
-        "bathrooms": "",
-        "house_size": "",
-        "description": "This charming craftsman-style home is nestled in the desirable neighborhood of Redwood Heights. As you enter the front door, you are greeted by a spacious living room with high ceilings and large windows that flood the room with natural light. The open floor plan seamlessly flows into the updated kitchen, featuring granite countertops, stainless steel appliances, and a breakfast bar. The main level also includes a cozy family room with a fireplace, perfect for relaxing evenings. Upstairs, you will find a luxurious master suite with a walk-in closet and a spa-like bathroom, complete with a soaking tub and separate shower. The backyard offers a peaceful retreat with a spacious deck, ideal for outdoor dining and entertaining.",
-        "neighborhood_description": "Redwood Heights is a diverse and welcoming neighborhood, known for its friendly community and beautiful tree-lined streets. Residents enjoy easy access to hiking trails in nearby parks, as well as local cafes, restaurants, and boutique shops. The neighborhood is also conveniently located near top-rated schools, making it a popular choice for families. With its mix of small-town charm and urban convenience, Redwood"
-    },
-    {
-        "neighborhood": "Oak Park",
-        "price": "",
-        "bedrooms": "",
-        "bathrooms": "",
-        "house_size": "",
-        "description": "Welcome to this charming Victorian-style home in the vibrant and diverse neighborhood of Oak Park. As you enter through the front porch, you'll notice the beautiful hardwood floors and high ceilings that give this home a spacious and airy feel. The main level features a cozy living room with a decorative fireplace, a formal dining room with original built-in cabinetry, and a modern kitchen with granite countertops and stainless steel appliances. Upstairs, you'll find three bedrooms, including a master suite with a walk-in closet and a luxurious en-suite bathroom. The finished basement offers additional living space, perfect for a home office or media room. The backyard is a true oasis with a deck, patio, and landscaped garden, perfect for outdoor entertaining.",
-        "neighborhood_description": "Oak Park is a diverse and welcoming community known for its beautiful tree-lined streets, historic homes, and lively entertainment and dining scene. You'll find a mix of families, young professionals, and artists in this neighborhood, creating a vibrant and eclectic atmosphere. Enjoy a stroll to the nearby parks, local boutiques, and gourmet restaurants,"
-    },
-    {
-        "neighborhood": "Westwood Village",
-        "price": "$1,200,000",
-        "bedrooms": "3",
-        "bathrooms": "2",
-        "house_size": "2,000 sqft",
-        "description": "",
-        "neighborhood_description": ""
-    },
-    {
-        "neighborhood": "West Haven",
-        "price": "",
-        "bedrooms": "",
-        "bathrooms": "",
-        "house_size": "",
-        "description": "This stunning 3 bedroom, 2.5 bathroom home in the vibrant neighborhood of West Haven is the perfect blend of modern luxury and historic charm. As you enter through the grand front porch, you are greeted by a spacious living room with soaring ceilings and large windows that flood the space with natural light. The recently renovated kitchen boasts high-end stainless steel appliances, quartz countertops, and a large island, making it a chef's dream. The primary bedroom features a luxurious en-suite bathroom and a walk-in closet. The backyard oasis is complete with a deck, perfect for outdoor entertaining, and a detached studio, perfect for a home office or gym. This home also has a two-car garage and a long driveway, providing ample parking space. Located just steps away from trendy restaurants, cafes, and shops, and only a short commute to downtown, this home offers the perfect balance of city living and suburban tranquility.",
-        "neighborhood_description": "West Haven is a diverse and bustling neighborhood, known for its vibrant community and rich history. Its tree-lined streets are lined with beautiful historic homes and"
-    },
-    {
-        "neighborhood": "Westwood Heights",
-        "price": "",
-        "bedrooms": "",
-        "bathrooms": "",
-        "house_size": "",
-        "description": "Welcome to this stunning modern home located in the desirable Westwood Heights neighborhood. This 3 bedroom, 2.5 bathroom house boasts 2,100 sqft of living space and has been completely renovated with high-end finishes. The main level features an open concept layout with a bright and airy living room, a gourmet kitchen with quartz countertops and stainless steel appliances, and a dining area that leads out to the spacious backyard. Upstairs, you'll find the master bedroom with a luxurious en-suite bathroom, two additional bedrooms, and another full bathroom. The lower level includes a finished basement perfect for a home office or playroom. This home also includes a 2-car garage and a large deck, perfect for outdoor entertaining. Don't miss out on the opportunity to make this your dream home!",
-        "neighborhood_description": "Westwood Heights is a diverse and family-friendly neighborhood with a strong sense of community. It offers easy access to major highways and is just a short drive away from downtown. The neighborhood is filled with parks, playgrounds, and walking trails, making it a"
-    },
-    {
-        "neighborhood": "Westlake Hills",
+        "neighborhood": "Oakhurst Park",
         "price": "$850,000",
-        "bedrooms": "3",
-        "bathrooms": "3",
-        "house_size": "2,500 sqft",
-        "description": "",
-        "neighborhood_description": ""
-    },
-    {
-        "neighborhood": "Silverlake Heights",
-        "price": "$1,200,000",
         "bedrooms": "4",
         "bathrooms": "3",
         "house_size": "2,500 sqft",
-        "description": "Welcome to this stunning home nestled in the vibrant and eclectic neighborhood of Silverlake Heights. This beautiful property boasts 4 bedrooms and 3 bathrooms, perfect for a growing family or those who love to entertain. As you enter through the grand double doors, you will be greeted by an open and airy living space with high ceilings and large windows that flood the home with natural light. The gourmet kitchen is a chef's dream, featuring top-of-the-line appliances, granite countertops, and a spacious island for prep and storage. The master suite is a true oasis, complete with a luxurious en-suite bathroom and a walk-in closet. Step outside to the backyard and you'll find a private oasis with a sparkling pool and spa, surrounded by lush landscaping and a built-in BBQ, perfect for outdoor gatherings. Other unique features of this home include a cozy fireplace, hardwood floors, and a 2-car garage.",
-        "neighborhood_description": "Silverlake Heights is a diverse and vibrant neighborhood, known for its historic architecture, trendy restaurants, and lively nightlife. Residents here enjoy a close-knit community"
+        "description": "",
+        "neighborhood_description": ""
     },
     {
         "neighborhood": "Oakwood Heights",
@@ -86,7 +14,79 @@
         "bedrooms": "",
         "bathrooms": "",
         "house_size": "",
-        "description": "Welcome to this stunning colonial home nestled in the charming and diverse neighborhood of Oakwood Heights. As you enter, you'll be greeted by a grand two-story foyer with a beautiful spiral staircase. The main level features an open concept layout with a spacious living room, perfect for entertaining guests. The kitchen boasts granite countertops, stainless steel appliances, and a large island with seating. Upstairs, you'll find a luxurious master suite with a walk-in closet and a spa-like en-suite bathroom. The fully finished basement offers additional living space, perfect for a home theater or gym. Step outside to the backyard oasis, complete with a patio and lush landscaping, providing a tranquil retreat. Other unique features include a home office, a two-car garage, and Smart Home technology.",
-        "neighborhood_description": "Oakwood Heights is a vibrant and diverse neighborhood, known for its charming tree-lined streets and sense of community. Residents enjoy easy access to local parks, restaurants, and shops, making it the perfect place for families and young professionals. The neighborhood also offers a variety of amenities, including a community"
+        "description": "This charming colonial-style home in the coveted neighborhood of Oakwood Heights is the perfect blend of traditional and modern living. As you enter the home, you are greeted by a spacious living room with a cozy fireplace and large windows that fill the room with natural light. The recently renovated kitchen features granite countertops, stainless steel appliances, and a breakfast bar that opens up to the dining area. The main floor also includes a family room, perfect for movie nights with the family, and a home office for those who work from home. Upstairs, you will find three spacious bedrooms, including a master bedroom with an en-suite bathroom and walk-in closet. The backyard is an entertainer's dream, with a large deck, perfect for summer BBQs, and a beautifully landscaped yard.",
+        "neighborhood_description": "Oakwood Heights is a diverse and vibrant neighborhood, known for its tree-lined streets, well-maintained homes, and strong community spirit. This neighborhood offers a variety of amenities, including parks, playgrounds, and community centers, making it an ideal place for families to settle down."
+    },
+    {
+        "neighborhood": "Willow Creek Heights",
+        "price": "$850,000",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "house_size": "2,500 sqft",
+        "description": "Welcome to this stunning modern home located in the desirable neighborhood of Willow Creek Heights. This 4 bedroom, 3 bathroom home boasts 2,500 sqft of living space and is situated on a spacious corner lot. As you enter, you are greeted by soaring ceilings and an abundance of natural light flooding the open concept living and dining area. The gourmet kitchen features top-of-the-line stainless steel appliances, granite countertops, and a large center island that is perfect for entertaining. The main floor also includes a cozy family room with a fireplace, a guest bedroom, and a full bathroom. Upstairs, you will find the luxurious master suite complete with a walk-in closet and a spa-like ensuite bathroom. The two additional bedrooms are generously sized and share a full bathroom. This home also offers a fully finished basement with a rec room, office space, and plenty of storage. The backyard oasis is an entertainer's dream with a large deck, manicured lawn, and mature trees offering privacy. Don't miss the opportunity to own this stunning home in Willow Creek Heights.",
+        "neighborhood_description": ""
+    },
+    {
+        "neighborhood": "Oakwood Heights",
+        "price": "$900,000",
+        "bedrooms": "3",
+        "bathrooms": "2",
+        "house_size": "2,200 sqft",
+        "description": "",
+        "neighborhood_description": ""
+    },
+    {
+        "neighborhood": "Rainbow Heights",
+        "price": "",
+        "bedrooms": "",
+        "bathrooms": "",
+        "house_size": "",
+        "description": "Welcome to your dream home in the vibrant and diverse neighborhood of Rainbow Heights. This stunning property features a unique and modern design with large windows and skylights, allowing for an abundance of natural light to flood the spacious living areas. The gourmet kitchen boasts high-end stainless steel appliances, quartz countertops, and a large island perfect for entertaining. The master suite is a true oasis with a luxurious en-suite bathroom and walk-in closet. The backyard is an entertainer's paradise, complete with a covered patio, built-in BBQ, and a sparkling pool with a waterfall feature. Don't miss the chance to make this one-of-a-kind home yours.",
+        "neighborhood_description": "Rainbow Heights is a dynamic and inclusive community, known for its colorful homes and welcoming atmosphere. Residents enjoy a variety of amenities, including parks, community centers, and a vibrant local food scene with diverse restaurants and cafes. The neighborhood is also conveniently located near major highways, making it easy to access other parts of the city. With its unique character and diverse community, Rainbow Heights is the perfect place to call home."
+    },
+    {
+        "neighborhood": "Maplewood Heights",
+        "price": "$1,250,000",
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "house_size": "3,500 sqft",
+        "description": "Welcome to your dream home in the desirable neighborhood of Maplewood Heights. This stunning property boasts 4 spacious bedrooms and 3 luxurious bathrooms. As you enter the grand foyer, you are greeted with high ceilings and natural light pouring in from the large windows. The gourmet kitchen is a chef's dream, featuring top-of-the-line appliances, granite countertops, and a large island perfect for entertaining. The master suite is a true oasis, complete with a spa-like en suite bathroom and a walk-in closet. The backyard is an entertainer's paradise with a covered patio, outdoor kitchen, and a sparkling pool and spa. This home also includes a 3-car garage and a bonus room that can be used as an office or gym. Don't miss the opportunity to own this beautiful home in Maplewood Heights.",
+        "neighborhood_description": "Maplewood Heights is a diverse and vibrant community, known for its beautiful tree-lined streets and well-maintained homes. Residents enjoy a strong sense of community and often gather for neighborhood events and block parties. The neighborhood is conveniently located near top-rated"
+    },
+    {
+        "neighborhood": "Maplewood Park",
+        "price": "$825,000",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "house_size": "2,500 sqft",
+        "description": "",
+        "neighborhood_description": ""
+    },
+    {
+        "neighborhood": "Sunset Heights",
+        "price": "$825,000",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "house_size": "2,200 sqft",
+        "description": "Welcome to this stunning single-family home in the vibrant neighborhood of Sunset Heights. This 3-bedroom, 2.5-bathroom property boasts over 2,200 square feet of living space, making it the perfect home for families and those who love to entertain. As you enter, you will be greeted by an open floor plan with beautiful hardwood floors and high ceilings. The spacious living room features a cozy fireplace, perfect for chilly nights. The kitchen is a chef's dream, equipped with modern stainless steel appliances, granite countertops, and a large island for meal prep and casual dining. The master bedroom is a true retreat, complete with a luxurious en-suite bathroom that features a soaking tub and separate shower. The backyard is an oasis, with a covered patio, lush greenery, and a sparkling pool, ideal for summer gatherings. This home also includes a 2-car garage, laundry room, and ample storage space. Don't miss the opportunity to own this gorgeous property in one of the most sought-after neighborhoods in the city.",
+        "neighborhood_description": "Sunset Heights is a diverse"
+    },
+    {
+        "neighborhood": "Westwood Hills",
+        "price": "$850,000",
+        "bedrooms": "3",
+        "bathrooms": "2.5",
+        "house_size": "2,500 sqft",
+        "description": "Welcome to this beautiful, newly renovated home in the charming neighborhood of Westwood Hills. As you enter, you will be greeted by an open concept living and dining area, perfect for entertaining guests or relaxing with family. The kitchen boasts stainless steel appliances, granite countertops, and a large island for meal prep. The main floor also features a spacious master suite with a walk-in closet and luxurious en-suite bathroom with a double vanity and soaking tub. Upstairs, you will find two additional bedrooms and a full bathroom, providing plenty of space for a growing family. The basement has been fully finished and offers a cozy family room, perfect for movie nights. Step outside to the backyard oasis, complete with a deck, perfect for summer BBQs, and a fenced-in yard, ideal for children and pets to play. This home also includes a two-car garage, providing ample storage space.",
+        "neighborhood_description": "Westwood Hills is a diverse and family-friendly neighborhood, known for its tree-lined streets and beautiful homes. It is conveniently located just a short drive away from downtown, providing easy"
+    },
+    {
+        "neighborhood": "Greenhill Heights",
+        "price": "",
+        "bedrooms": "",
+        "bathrooms": "",
+        "house_size": "",
+        "description": "This stunning two-story home is situated in the highly sought-after neighborhood of Greenhill Heights. With 4 spacious bedrooms and 3 luxurious bathrooms, this property is the perfect blend of modern elegance and comfortable living. The open concept living and dining area features high ceilings, large windows, and a cozy fireplace, creating the perfect space for entertaining. The kitchen boasts stainless steel appliances, granite countertops, and a large island for additional prep space. The master suite is a true oasis with a private balcony, walk-in closet, and an en-suite bathroom with a soaking tub and separate shower. The backyard is an entertainer's dream, with a covered patio, built-in BBQ, and a sparkling pool with a waterfall feature. Other unique features of this home include a built-in home theater system, smart home technology, and a two-car garage with built-in storage. Don't miss the opportunity to make this dream home yours!",
+        "neighborhood_description": "Greenhill Heights is a diverse and family-friendly neighborhood, known for its beautiful tree-lined streets and well-maintained homes. Residents enjoy easy access"
     }
 ]

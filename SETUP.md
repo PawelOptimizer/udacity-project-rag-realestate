@@ -41,36 +41,6 @@ This guide will help you set up the HomeMatch project environment.
 
 7. **Open the HomeMatch.ipynb notebook and select the "HomeMatch" kernel**
 
-### For Windows Users:
-
-1. **Clone or download the repository** (if not already done)
-
-2. **Navigate to the project directory** using File Explorer or Command Prompt:
-   ```
-   cd \path\to\HomeMatch
-   ```
-
-3. **Run the setup script** by double-clicking on `setup.bat` or running it from Command Prompt:
-   ```
-   setup.bat
-   ```
-
-4. **Activate the virtual environment**:
-   ```
-   venv\Scripts\activate
-   ```
-
-5. **Set your OpenAI API key**:
-   - Edit the `.env` file created during setup
-   - Add your OpenAI API key: `OPENAI_API_KEY=your-api-key-here`
-
-6. **Run Jupyter Notebook**:
-   ```
-   jupyter notebook
-   ```
-
-7. **Open the HomeMatch.ipynb notebook and select the "HomeMatch" kernel**
-
 ## Manual Setup (Alternative)
 
 If the setup scripts don't work for you, follow these manual steps:
